@@ -1,0 +1,8 @@
+* {
+    font-family: 'Red Hat Display';font-size: 22px;
+}
+
+.benefit-section {
+    background: url('../img/bg.jpg');
+    width: 100%;
+}
