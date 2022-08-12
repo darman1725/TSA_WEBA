@@ -6,3 +6,8 @@
     background: url('../img/bg.jpg');
     width: 100%;
 }
+
+.footer{
+    background-color: rgba(253, 215, 170, 0.46);
+    padding-top: 5px;
+}
