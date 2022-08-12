@@ -5,9 +5,10 @@
 .benefit-section {
     background: url('../img/bg.jpg');
     width: 100%;
+    background-size: cover;
 }
 
-.footer{
+.footer {
     background-color: rgba(253, 215, 170, 0.46);
     padding-top: 5px;
     height: 100%;
@@ -43,7 +44,3 @@ ul.benefit > li {
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
     margin-bottom: 16px;
 }
-h1{
-    text-align: center;
-}
-
