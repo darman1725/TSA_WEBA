@@ -67,4 +67,16 @@ ul.benefit > li {
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
     margin-bottom: 16px;
 }
+.hero-section {
+    text-align: center;
+    background-image: url('../img/bg_1.jpg');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    padding: 50px;
+    padding-top: 160px;
+    position: relative;
 
+}
