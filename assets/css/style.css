@@ -7,6 +7,11 @@
     width: 100%;
 }
 
+.footer{
+    background-color: rgba(253, 215, 170, 0.46);
+    padding-top: 5px;
+}
+
 .features {
     margin: 4em auto;
     padding: 1em;
@@ -22,3 +27,4 @@
 h1{
     text-align: center;
 }
+
