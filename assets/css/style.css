@@ -6,3 +6,22 @@
     background: url('../img/bg.jpg');
     width: 100%;
 }
+
+.nav-link{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.nav-link:hover{
+    color: greenyellow;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.navbar-brand:hover{
+    color: greenyellow;
+}
