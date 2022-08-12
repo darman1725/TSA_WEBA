@@ -10,21 +10,25 @@
 
 .nav-link{
     display: block;
-    color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 16px 18px;
 }
 
 .nav-link:hover{
-    color: greenyellow;
+     font-weight: 900;
 }
 
-.navbar-brand{
-    color: white;
+.container-fluid {
+    padding-top: 5px;
+    height: 100%;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    line-height: 1.75rem
 }
 
-.navbar-brand:hover{
-    color: greenyellow;
+.bg-light {
+    background-color: rgba(253, 215, 170, 0.46)!important;
 }
 
 .footer {
@@ -63,4 +67,5 @@ ul.benefit > li {
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
     margin-bottom: 16px;
 }
+
 
